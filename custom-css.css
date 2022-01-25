@@ -13,6 +13,13 @@ body {
     color: #767676;
 }
 
+.site-color {
+    color: #FFB400;
+}
+
+.site-bg-color {
+    background: #FFB400;
+}
 
 
 /*---------------------
@@ -28,7 +35,25 @@ navbar
     text-align: center;
 }
 
+
+/* ---------------------
+profile area 
+------------------------ */
+.profile-area {
+    width: 300px;
+    padding: 0 2rem;
+}
+
 .side-profile-pic {
     width: 9.375rem;
     height: 9.375rem;
+}
+
+.profile-icons {
+    margin: 0 0.5rem;
+    padding: 0.5rem;
+    color: #000;
+    font-size: 0.9rem;
+    background-color: #FFB400;
+    border-radius: 1rem;
 }
