@@ -1,0 +1,34 @@
+/*---------------------- 
+custom css
+----------------- */
+
+/*-------------------------
+common css  
+-------------------------*/
+body {
+    background: #E5E5E5;
+}
+
+.paragraph-text-color {
+    color: #767676;
+}
+
+
+
+/*---------------------
+navbar
+------------------------ */
+
+.nav-icons {
+    font-size: 2rem;
+    padding: 0.8rem;
+    margin-bottom: 1.5rem;
+    color: #767676;
+    background: #E5E5E5;
+    text-align: center;
+}
+
+.side-profile-pic {
+    width: 9.375rem;
+    height: 9.375rem;
+}
