@@ -29,6 +29,11 @@ body {
     padding: 0 1rem;
 }
 
+.div-containers {
+    margin-top: 8rem;
+    margin-bottom: 2rem;
+}
+
 /*---------------------
 navbar
 ------------------------ */
@@ -69,10 +74,7 @@ profile area
 /* -------------------
 service area
 ----------------------*/
-.service-area {
-    margin-top: 8rem;
-    margin-bottom: 2rem;
-}
+
 
 .service-icons-custom {
     font-size: 5rem;
