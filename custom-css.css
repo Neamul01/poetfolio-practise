@@ -21,6 +21,13 @@ body {
     background: #FFB400;
 }
 
+.body-container-custom {
+    max-width: 60.6rem;
+    position: absolute;
+    left: 22%;
+    right: 7%;
+    padding: 0 1rem;
+}
 
 /*---------------------
 navbar
