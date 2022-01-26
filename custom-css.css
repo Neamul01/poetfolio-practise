@@ -6,7 +6,8 @@ custom css
 common css  
 -------------------------*/
 body {
-    background: #E5E5E5;
+    background: #F0F0F6;
+    position: relative;
 }
 
 .paragraph-text-color {
@@ -22,11 +23,9 @@ body {
 }
 
 .body-container-custom {
-    max-width: 60.6rem;
-    position: absolute;
-    left: 22%;
-    right: 7%;
+    max-width: 60.5rem;
     padding: 0 1rem;
+    margin-left: 300px;
 }
 
 .div-containers {
@@ -37,9 +36,12 @@ body {
 /*---------------------
 navbar
 ------------------------ */
+.side-nav-custom {
+    background: #FAFAFA;
+}
 
 .nav-icons {
-    font-size: 2rem;
+    font-size: 1.3rem;
     padding: 0.8rem;
     margin-bottom: 1.5rem;
     color: #767676;
@@ -105,4 +107,17 @@ blog area
 
 .blog-link-custom i {
     font-size: 0.5rem;
+}
+
+
+
+
+
+/*---------------------------
+footer area
+-----------------------------*/
+.footer-container-custom {
+    max-width: 60.5rem;
+    padding: 0 1rem;
+    margin-left: 300px;
 }
