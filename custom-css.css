@@ -64,3 +64,25 @@ profile area
     background-color: #FFB400;
     border-radius: 1rem;
 }
+
+
+/* -------------------
+service area
+----------------------*/
+.service-area {
+    margin-top: 8rem;
+    margin-bottom: 2rem;
+}
+
+.service-icons-custom {
+    font-size: 5rem;
+    color: #fcbe2d;
+}
+
+.service-advertise-order-btn {
+    font-size: 12px;
+}
+
+.service-advertise-order-btn i {
+    font-size: 10px;
+}
