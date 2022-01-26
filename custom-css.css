@@ -94,3 +94,15 @@ service area
     text-decoration: none;
     color: #000;
 }
+
+/* ------------------
+blog area
+-------------------  */
+.blog-containers {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.blog-link-custom i {
+    font-size: 0.5rem;
+}
